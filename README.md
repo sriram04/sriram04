@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS and AWS**
 
-- 📫 How to reach me **sripidap@iu.edu / p.sriramreddy0004@gmail.com**
+- 📫 How to reach me **sripidap@iu.edu / p.sriramreddy0004@gmail.com / https://www.linkedin.com/in/sriramreddy-p/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
