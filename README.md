@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram Reddy</h1>
-<h3 align="center">A passionate Full Stack developer from USA</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 - 😎 Full Stack Developer at the HathiTrust
 
