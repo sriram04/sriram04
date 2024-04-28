@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sriram Reddy</h1>
 <h3 align="center">A passionate Full Stack developer from USA</h3>
 
+- 😎 Full Stack Developer at the HathiTrust
+
+- 🤠 Ex-Software Engineer at Tata Consultancy Services 
+
 - 🌱 I’m currently learning **React, NodeJS and AWS**
 
 - 📫 How to reach me **sripidap@iu.edu / p.sriramreddy0004@gmail.com / https://www.linkedin.com/in/sriramreddy-p/**
